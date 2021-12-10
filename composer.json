@@ -1,0 +1,10 @@
+{
+  "name": "DesignPatternsPhp8",
+  "description": "Some code examples",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "DesignPatternsPhp8\\": "src/"
+    }
+  }
+}
