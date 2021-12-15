@@ -2,6 +2,12 @@
 
 ___
 
-## Behavioral patterns
+## Behavioral patterns 
+* __Memento__ :star:
+
 ## Creational patterns
+* __Builder__ :star::star::star:
+
 ## Structural patterns
+* __Proxy__ :star:
+    
