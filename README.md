@@ -10,4 +10,5 @@ ___
 
 ## Structural patterns
 * __Proxy__ :star:
+* __Decorator__ :star::star:
     
