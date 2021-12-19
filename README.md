@@ -7,6 +7,7 @@ ___
 
 ## Creational patterns
 * __Builder__ :star::star::star:
+* __Prototype__ :star::star:
 
 ## Structural patterns
 * __Proxy__ :star:
