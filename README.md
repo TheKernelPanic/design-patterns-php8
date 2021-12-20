@@ -6,6 +6,7 @@ ___
 * __Memento__ :star:
 
 ## Creational patterns
+* __Abstract Factory__ :star::star::star:
 * __Builder__ :star::star::star:
 * __Prototype__ :star::star:
 

@@ -1,0 +1,17 @@
+<?php
+declare(strict_types=1);
+
+namespace DesignPatternsPhp8\Creational\AbstractFactory\ExampleNotifications;
+
+class TextPlainNotificationTemplate implements NotificationTemplate
+{
+    /**
+     * @param string $subject
+     * @param string $body
+     * @return string
+     */
+    public function create(string $subject, string $body): string
+    {
+        return "{$subject}\n\n{$body}";
+    }
+}
