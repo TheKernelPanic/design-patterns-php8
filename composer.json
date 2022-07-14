@@ -1,5 +1,4 @@
 {
-  "name": "DesignPatternsPhp8",
   "description": "Some code examples",
   "type": "project",
   "autoload": {
