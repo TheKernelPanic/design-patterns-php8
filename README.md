@@ -13,4 +13,4 @@ ___
 ## Structural patterns
 * __Proxy__ :star:
 * __Decorator__ :star::star:
-    
+* __Flyweight__ :star::star:    
